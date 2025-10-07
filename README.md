@@ -1,8 +1,8 @@
 # Java Recursive Assignment – Ex13 (20454)
 
 ## Author
-- **Name**: Shimon Esterkin  
-- **ID**: *****2258   
+- **Name**: Shimon Esterkin ([SemionVlad](https://github.com/SemionVlad))
+- **ID**: *****2258  
 - **Semester**: 2025B
 
 ---
