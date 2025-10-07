@@ -1,9 +1,9 @@
 # Java Recursive Assignment – Ex13 (20454)
 
-**Author**: Shimon Esterkin  
-**Student ID**: *****2258  
-**Course**: Introduction to Computer Science in Java (20454)  
-**University**: The Open University of Israel  
+## Author
+- **Name**: Shimon Esterkin  
+- **ID**: *****2258   
+- **Semester**: 2025B
 
 ---
 
