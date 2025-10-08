@@ -1,4 +1,13 @@
 # Java Recursive Assignment – Ex13 (20454)
+<!-- Tech & meta badges (static; no CI required) -->
+![Language: Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![Paradigm: Recursion](https://img.shields.io/badge/Paradigm-Recursion-4c1)
+![Constraint: No Loops](https://img.shields.io/badge/Constraint-No%20Loops-795548)
+![Topic: Backtracking/Memoization](https://img.shields.io/badge/Topic-Backtracking%20%2F%20Memoization-0aa)
+![Course: 20454](https://img.shields.io/badge/Course-20454-999)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> Java recursion assignment (20454): disjoint partition with equal diffs (countEqualDiff) and minimum energy path on a matrix (minPoints) — pure recursion with backtracking/memoization, no loops.
 
 ## Author
 - **Name**: Shimon Esterkin 
